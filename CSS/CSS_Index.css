@@ -1,0 +1,62 @@
+.body{margin: 0;
+padding: 0;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+
+
+#wholepage{width: auto;
+ padding-top: 14px;
+margin-left: auto;
+margin-right: auto;}
+
+    
+
+.nav-hover{color: black;
+font-size: 12pt;
+font-weight: bold;}
+
+.block1{
+    text-align: center;}
+
+.footer{
+    padding: 5px 5px 5px 25px;
+    color: black;
+    
+}
+
+.nav-hover:hover{
+    background-color:rgb(99, 194, 5);
+    color: white;
+    
+}
+
+
+.Thankyou {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+  .centered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    color: white;
+    font-weight: bold;
+  }
+
+  .centered:hover{color: rgb(99, 194, 5)}
+
+
+ 
+
+
+
+
+  <!--contactus-->
+
+
